@@ -1,0 +1,13 @@
+27d74d29-e3fe-4476-abd6-f70dbd4d7793\:credentialProfileName=conti-rvd-test
+743f6bb5-780b-4873-bf64-f1b9a4a05a56\:credentialProfileName=default
+82a50580-d968-4551-bf61-fdc7f98ac121\:credentialProfileName=nikola private
+89091e73-0030-4cbc-847a-996f01a91cc1\:credentialProfileName=rvd-test
+add89f63-7959-41eb-a7a2-579de67627f6\:credentialProfileName=cont-rvd-test
+cognitoIdentityId=us-east-1\:5f2815a3-3a08-4c23-ad7b-1cd6f097b2a8
+cognitoIdentityPoolId=us-east-1\:d4fdc07f-94fd-4cc6-94fb-f903657f05c1
+credentialProfileAccountIds=89091e73-0030-4cbc-847a-996f01a91cc1|fead634a-3c7f-4d45-bff9-b3c605734896|743f6bb5-780b-4873-bf64-f1b9a4a05a56|add89f63-7959-41eb-a7a2-579de67627f6|27d74d29-e3fe-4476-abd6-f70dbd4d7793|82a50580-d968-4551-bf61-fdc7f98ac121
+currentAccount=743f6bb5-780b-4873-bf64-f1b9a4a05a56
+currentDefaultAccount=
+ec2PreferencesImported=true
+eclipse.preferences.version=1
+fead634a-3c7f-4d45-bff9-b3c605734896\:credentialProfileName=rvdS3Maven
