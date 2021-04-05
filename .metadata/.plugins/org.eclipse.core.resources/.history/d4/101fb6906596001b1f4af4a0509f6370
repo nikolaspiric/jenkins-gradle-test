@@ -14,7 +14,7 @@ plugins {
 
 apply plugin : "java" 
 ext {
-   javaMainClass = "JenkinsGradleTest.JenkinsTest"
+   javaMainClass = "com.baeldung.gradle.exec.MainClass"
 }
 
 application {
